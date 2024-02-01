@@ -1,0 +1,106 @@
+[15:07:56 2024-01-31] [19584] [NOTICE] Starting installation of module: base  
+[15:07:56 2024-01-31] [19584] [NOTICE] owa_request Table Created.  
+[15:07:56 2024-01-31] [19584] [NOTICE] owa_session Table Created.  
+[15:07:56 2024-01-31] [19584] [NOTICE] owa_document Table Created.  
+[15:07:56 2024-01-31] [19584] [NOTICE] owa_feed_request Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_click Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_ua Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_referer Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_site Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_visitor Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_host Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_exit Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_os Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_impression Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_configuration Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_user Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_domstream Table Created.  
+[15:07:57 2024-01-31] [19584] [NOTICE] owa_action_fact Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_search_term_dim Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_ad_dim Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_source_dim Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_campaign_dim Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_location_dim Table Created.  
+[15:07:58 2024-01-31] [19584] [NOTICE] owa_commerce_transaction_fact Table Created.  
+[15:07:59 2024-01-31] [19584] [NOTICE] owa_commerce_line_item_fact Table Created.  
+[15:07:59 2024-01-31] [19584] [NOTICE] owa_queue_item Table Created.  
+[15:07:59 2024-01-31] [19584] [NOTICE] owa_site_user Table Created.  
+[15:07:59 2024-01-31] [19584] [NOTICE] Post install procedure was a success.  
+[15:07:59 2024-01-31] [19584] [NOTICE] Module base activated  
+[15:07:59 2024-01-31] [19584] [NOTICE] Installation complete.  
+[15:07:59 2024-01-31] [19584] [NOTICE] Checking for existence of default site.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Starting installation of module: base  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_request Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_session Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_document Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_feed_request Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_click Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_ua Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_referer Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_site Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_visitor Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_host Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_exit Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_os Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_impression Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_configuration Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_user Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_domstream Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_action_fact Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_search_term_dim Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_ad_dim Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_source_dim Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_campaign_dim Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_location_dim Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_commerce_transaction_fact Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_commerce_line_item_fact Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_queue_item Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] owa_site_user Table Created.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Post install procedure was a success.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Module base activated  
+[15:14:35 2024-01-31] [19584] [NOTICE] Installation complete.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Checking for existence of default site.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Created default site.  
+[15:14:35 2024-01-31] [19584] [NOTICE] Install Complete Flag added to configuration  
+[15:20:25 2024-01-31] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:10:21 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:30:32 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:33:42 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:33:42 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:33:42 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:33:42 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:33:42 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:51:20 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:51:49 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:52:01 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:52:26 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[06:52:26 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[07:55:15 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[07:55:15 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[09:02:04 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[09:02:04 2024-02-01] [19584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:57:38 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:57:38 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[11:58:50 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:44 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:48 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:49 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:49 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:55 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:55 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:59 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:09:59 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:10:03 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:10:03 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:14:32 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
+[12:14:32 2024-02-01] [12584] [NOTICE] Use of owa_client class is deprecated. Re-implement your tracker using OWA's PHP SDK.  
